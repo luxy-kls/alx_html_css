@@ -1,0 +1,324 @@
+header{
+    width: 1103.41px;
+    height: 29.46px;
+    top: 35.02px;
+    left: 171.59px;
+}
+
+body{
+    background-image: url(./images/Object.png);
+    width: 1440px;
+    height: 1093px;
+}
+h1{
+    font-family: Source Sans Pro;
+    font-weight: 700;
+    font-size: 120px;
+    line-height: 100%;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.getschooled{
+    width: 684px;
+    height: 151px;
+    top: 220px;
+    left: 377px;
+}
+.smiles{
+    width: 52px;
+    height: 20px;
+    top: 361px;
+    left: 593px;
+
+    font-family: Source Sans Pro;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.grin{
+    width: 52px;
+    height: 20px;
+    top: 361px;
+    left: 704px;
+
+    font-family: Source Sans Pro;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.laugh{
+    width: 49px;
+    height: 20px;
+    top: 361px;
+    left: 797px;
+
+    font-family: Source Sans Pro;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+}
+button{
+    width: 162px;
+    height: 44px;
+    top: 419px;
+    left: 639px
+    radius 22px;
+    
+    box-shadow : 0px 2px 20px 0px #00000080;
+    
+     font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+
+    background: #C271FF;
+}
+.pros{
+    width: 1009;
+    height: 237;
+    opacity: 1;
+    top: 758px;
+    left: 217px;
+
+.pro_1{
+    width: 150px;
+    height: 237px;
+    top: 758px;
+    left: 217px;
+}
+.msg1{
+    width: 150px;
+    height: 48px;
+    top: 189px;
+
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.name1{
+    width: 150px;
+    height: 27px;
+    top: 160px;
+
+    font-family: Source Sans Pro;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.pro_2{
+    width: 150px;
+    height: 237px;
+    top: 758px;
+    left: 506px;
+}
+.msg2{
+    width: 150px;
+    height: 48px;
+    top: 189px;
+
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.name2{
+    width: 150px;
+    height: 27px;
+    top: 160px;
+
+    font-family: Source Sans Pro;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.pro_3{
+    width: 150px;
+    height: 237px;
+    top: 758px;
+    left: 787px;
+}
+.msg3{
+    width: 150px;
+    height: 48px;
+    top: 189px;
+
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.name3{
+    width: 150px;
+    height: 27px;
+    top: 160px;
+
+    font-family: Source Sans Pro;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.pro_4{
+    width: 150px;
+    height: 237px;
+    top: 758px;
+    left: 1076px;
+}
+.msg4{
+    width: 150px;
+    height: 48px;
+    top: 189px;
+
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.name4{
+    width: 150px;
+    height: 27px;
+    top: 160px;
+
+    font-family: Source Sans Pro;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+}
+}
+
+.testimonials{
+    width: 1440;
+height: 392;
+top: 1093px;
+left: -1px;
+opacity: 1;
+background-color: #C271FF;
+}
+.testimonial{
+    width: 943;
+height: 160;
+top: 1201px;
+left: 259px;
+opacity: 1;
+}
+.text1{
+    width: 730;
+height: 158;
+top: 1203px;
+left: 472px;
+opacity: 1;
+color: #FFFFFF;
+}
+blockquote{
+    width: 730;
+height: 68;
+opacity: 1;
+
+font-family: Source Sans Pro;
+font-weight: 400;
+font-size: 22px;
+line-height: 33.6px;
+letter-spacing: 0px;
+color: #FFFFFF;
+}
+.name{
+    width: 129;
+height: 34;
+top: 90px;
+opacity: 1;
+
+font-family: Source Sans Pro;
+font-weight: 700;
+font-size: 22px;
+line-height: 33.6px;
+letter-spacing: 0px;
+color: #FFFFFF;
+}
+.presenter{
+    width: 165;
+height: 34;
+top: 124px;
+opacity: 1;
+
+
+font-family: Source Sans Pro;
+font-weight: 400;
+font-size: 22px;
+line-height: 33.6px;
+letter-spacing: 0px;
+color: #FFFFFF;
+}
+.img5{
+    width: 394;
+height: 341;
+top: 1176px;
+left: 142px;
+opacity: 1;
+
+}
+
+.tutorials{
+    width: 1228;
+height: 450;
+top: 1572px;
+left: 106px;
+opacity: 1;
+background-color: #FFFFFF;
+}
+.membership{
+    width: 1440;
+height: 502;
+angle: 0 deg;
+opacity: 1;
+
+background: #071629;
+p{
+    color: #FFFFFF;
+}
+h3, h2{
+    color: #FFFFFF;
+}
+}
+.extras{
+background-color: #FFFFFF;
+}
