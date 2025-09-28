@@ -1,8 +1,8 @@
  body {
     display: flex;
     flex-direction: column;
-    
- }
+    background-color: greenyellow;
+     }
  main{
     display: flex;
     flex-direction: row;
@@ -16,3 +16,10 @@
     flex:1;
     overflow-y: auto;
  }
+ img{
+   width: 300;
+   height:auto
+    }
+    .down{
+      margin-top: 50px;
+    }
